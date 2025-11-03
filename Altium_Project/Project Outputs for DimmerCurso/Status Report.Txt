@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [DimmerCurso.PrjPcb]
+   Generated File[DimmerCurso.GTO]
+   Generated File[DimmerCurso.GTP]
+   Generated File[DimmerCurso.GTS]
+   Generated File[DimmerCurso.GTL]
+   Generated File[DimmerCurso.GBL]
+   Generated File[DimmerCurso.GBS]
+   Generated File[DimmerCurso.GBP]
+   Generated File[DimmerCurso.GBO]
+   Generated File[DimmerCurso.GM]
+   Generated File[DimmerCurso.EXTREP]
+   Generated File[DimmerCurso.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 15:59:48 On 03/11/2025

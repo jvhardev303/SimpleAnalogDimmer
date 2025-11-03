@@ -1,0 +1,8 @@
+Added Component: Designator=HOLE1(FURO_M3)
+Added Component: Designator=HOLE2(FURO_M3)
+Added Component: Designator=HOLE3(FURO_M3)
+Added Component: Designator=HOLE4(FURO_M3)
+Added Member To Class: ClassName=Schematic Member=Component HOLE1 FURO_M3
+Added Member To Class: ClassName=Schematic Member=Component HOLE2 FURO_M3
+Added Member To Class: ClassName=Schematic Member=Component HOLE3 FURO_M3
+Added Member To Class: ClassName=Schematic Member=Component HOLE4 FURO_M3

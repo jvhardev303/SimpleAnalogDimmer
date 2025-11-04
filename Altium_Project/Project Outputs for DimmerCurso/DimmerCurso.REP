@@ -1,162 +1,82 @@
 *************************************************************
-FileName = DimmerCurso.GBR
-AutoAperture = True
+FileName = DimmerCurso.PcbDoc
+ODB++ directory structure
 *************************************************************
-Generating : Bottom Layer
-      File : DimmerCurso.GBL
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\profile
 
-    Adding Layer      : Bottom Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\stephdr
 
-    Adding Layer      : Multi-Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\attrlist
 
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\dielectric_1\features
 
-Used DCodes :
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-*************************************************************
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\dielectric_1\attrlist
 
-*************************************************************
-Generating : Top Paste
-      File : DimmerCurso.GTP
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\bottom_overlay\features
 
-    Adding Layer      : Top Paste
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\bottom_overlay\attrlist
 
-    Adding Layer      : Top Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\top_paste\features
 
-    Adding Layer      : Multi-Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\top_paste\attrlist
 
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\features
 
-Used DCodes :
-*************************************************************
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\attrlist
 
-*************************************************************
-Generating : Top Overlay
-      File : DimmerCurso.GTO
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\drill_non-plated_bottom_layer-top_layer\tools
 
-    Adding Layer      : Top Overlay
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\bottom_paste\features
 
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\bottom_paste\attrlist
 
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-*************************************************************
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\boardshape\features
 
-*************************************************************
-Generating : Bottom Solder
-      File : DimmerCurso.GBS
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\boardshape\attrlist
 
-    Adding Layer      : Bottom Solder
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\mechanical_1\features
 
-    Adding Layer      : Bottom Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\mechanical_1\attrlist
 
-    Adding Layer      : Multi-Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\mechanical_13\features
 
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\mechanical_13\attrlist
 
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\features
 
-*************************************************************
-Generating : Top Layer
-      File : DimmerCurso.GTL
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\attrlist
 
-    Adding Layer      : Top Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\drill_plated_bottom_layer-top_layer\tools
 
-    Adding Layer      : Multi-Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\top_solder\features
 
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\top_solder\attrlist
 
-Used DCodes :
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-*************************************************************
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\mechanical_15\features
 
-*************************************************************
-Generating : Bottom Paste
-      File : DimmerCurso.GBP
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\mechanical_15\attrlist
 
-    Adding Layer      : Bottom Paste
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\bottom_solder\features
 
-    Adding Layer      : Bottom Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\bottom_solder\attrlist
 
-    Adding Layer      : Multi-Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\bottom_layer\features
 
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\bottom_layer\attrlist
 
-Used DCodes :
-*************************************************************
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\top_layer\features
 
-*************************************************************
-Generating : Top Solder
-      File : DimmerCurso.GTS
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\top_layer\attrlist
 
-    Adding Layer      : Top Solder
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\top_overlay\features
 
-    Adding Layer      : Top Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\top_overlay\attrlist
 
-    Adding Layer      : Multi-Layer
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\comp_+_top\features
 
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\layers\comp_+_top\components
 
-Used DCodes :
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-*************************************************************
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\steps\pcb\eda\data
 
-*************************************************************
-Generating : Bottom Overlay
-      File : DimmerCurso.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : DimmerCurso.GM
-
-
-Used DCodes :
-    D37
-*************************************************************
+Generated File : C:\ProjectsOpenSource\SimpleAnalogDimmer\Altium_Project\Project Outputs for DimmerCurso\odb\matrix\matrix
 

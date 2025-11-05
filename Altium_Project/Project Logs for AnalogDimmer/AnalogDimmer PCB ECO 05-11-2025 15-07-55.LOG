@@ -1,0 +1,14 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CERAMIC_CAPACITOR_GENERIC_PTH New Footprint=CERAMIC_CAPACITOR_GENERIC_PTH
+Change Physical Footprint: Designator=C2 Old Footprint=CERAMIC_CAPACITOR_GENERIC_PTH New Footprint=CERAMIC_CAPACITOR_GENERIC_PTH
+Change Physical Footprint: Designator=D1 Old Footprint=TO-220 New Footprint=TO-220
+Change Physical Footprint: Designator=D2 Old Footprint=DO-35 New Footprint=DO-35
+Change Physical Footprint: Designator=HOLE1 Old Footprint=FURO_M3 New Footprint=FURO_M3
+Change Physical Footprint: Designator=HOLE2 Old Footprint=FURO_M3 New Footprint=FURO_M3
+Change Physical Footprint: Designator=HOLE3 Old Footprint=FURO_M3 New Footprint=FURO_M3
+Change Physical Footprint: Designator=HOLE4 Old Footprint=FURO_M3 New Footprint=FURO_M3
+Change Physical Footprint: Designator=J1 Old Footprint=1888687 New Footprint=1888687
+Change Physical Footprint: Designator=J2 Old Footprint=640456-2 New Footprint=640456-2
+Change Physical Footprint: Designator=J3 Old Footprint=640456-3 New Footprint=640456-3
+Change Physical Footprint: Designator=J4 Old Footprint=1888687 New Footprint=1888687
+Change Physical Footprint: Designator=R1 Old Footprint=RESISTOR_1-4_PTH New Footprint=RESISTOR_1-4_PTH
+Change Physical Footprint: Designator=R2 Old Footprint=RESISTOR_1-4_PTH New Footprint=RESISTOR_1-4_PTH
